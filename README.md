@@ -30,9 +30,8 @@ THEN I find a concise, descriptive title
 
 * Mock-Up
 
-```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![screenshot](https://user-images.githubusercontent.com/119819391/207989964-407fd04c-621f-46e3-8b88-dac12981f97a.png)
+
 ---
 
 ## How to Complete the Challenge
