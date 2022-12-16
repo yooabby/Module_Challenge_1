@@ -8,13 +8,13 @@ One of the most common tasks for front-end and junior developers is to take exis
 
 ## Challenge requirements:
 
-* User Story
+User Story
 
 - AS A marketing agency
 - I WANT a codebase that follows accessibility standards
 - SO THAT our own site is optimized for search engines
 
-* Acceptance Criteria
+Acceptance Criteria
 
 - GIVEN a webpage meets accessibility standards
 - WHEN I view the source code
@@ -28,7 +28,7 @@ One of the most common tasks for front-end and junior developers is to take exis
 - WHEN I view the title element
 - THEN I find a concise, descriptive title
 
-* Mock-Up
+Mock-Up
 
 ![screenshot](https://user-images.githubusercontent.com/119819391/207989964-407fd04c-621f-46e3-8b88-dac12981f97a.png)
 
